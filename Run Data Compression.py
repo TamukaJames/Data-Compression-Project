@@ -1,8 +1,7 @@
 from datacompression import compressionAlgorithmn
 
 
-targetFile = "sample.txt
-"
+targetFile = "test2.txt"
 
 h = compressionAlgorithmn(targetFile)
 
